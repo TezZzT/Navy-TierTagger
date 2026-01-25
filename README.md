@@ -19,14 +19,13 @@ A modern Minecraft Fabric mod that displays player PvP rankings from [Navy Tiers
 - Use `/tiertagger <player>` to query rankings in-game.
 - Cycle through display modes using the configured keybind.
 
-## Development
+# Credits
 
-Created and maintained by **TezzT**. Based on the original mod by netiyiy/uku.
+This project is based on **TierTagger** by mctiers-dev and uses it as a reference.
 
 ### Requirements
 - Fabric Loader
 - Minecraft 1.21.4
 - Ukulib
 
-## License
-This project is licensed under the **Mozilla Public License 2.0**.
+
