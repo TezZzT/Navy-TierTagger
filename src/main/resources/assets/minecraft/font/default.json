@@ -1,0 +1,31 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "tier-tagger:navy/crystal.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE709"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "tier-tagger:navy/netherite.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE710"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "tier-tagger:navy/sword.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE711"
+      ]
+    }
+  ]
+}
