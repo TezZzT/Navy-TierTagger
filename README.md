@@ -28,5 +28,5 @@ This project is based on **TierTagger** by mctiers-dev and uses it as a referenc
 - Minecraft 1.21.4
 - Ukulib
 
-![Preview]([https://miweb.com/imagen.png](https://cdn.discordapp.com/attachments/1308312487682375741/1464975169566150759/2026-01-25_10.19.45.png?ex=69776bf2&is=69761a72&hm=1bd4886703de658f44ae8b321168dc2bbfc12a59f0539c836cae7c33d41f2b53&)
+![Preview]([https://miweb.com/imagen.png](https://cdn.discordapp.com/attachments/1308312487682375741/1464975169566150759/2026-01-25_10.19.45.png?ex=69776bf2&is=69761a72&hm=1bd4886703de658f44ae8b321168dc2bbfc12a59f0539c836cae7c33d41f2b53&))
 
