@@ -28,4 +28,4 @@ This project is based on **TierTagger** by mctiers-dev and uses it as a referenc
 - Minecraft 1.21.4
 - Ukulib
 
-![Descripción de la imagen](https://cdn.discordapp.com/attachments/1308312487682375741/1464975169566150759/2026-01-25_10.19.45.png)
+![Preview](2026-01-25_10.19.45.png)
