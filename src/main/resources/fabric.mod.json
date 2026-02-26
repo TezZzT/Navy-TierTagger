@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "navy-tiertagger",
+  "version": "${version}",
+  "name": "Navy TierTagger",
+  "description": "Display Navy PvP player tiers in their nametag!",
+  "authors": [
+    "TezzT"
+  ],
+  "contact": {
+    "sources": "https://github.com/TezzT/TierTagger"
+  },
+  "license": "MPL-2.0",
+  "icon": "assets/navy-tiertagger/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.tezzt.tiertagger.TierTagger"
+    ],
+    "modmenu": [
+      "com.tezzt.tiertagger.config.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "NavyTierTagger.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16",
+    "minecraft": ">=1.20.1",
+    "ukulib": ">=0.7.0"
+  }
+}
